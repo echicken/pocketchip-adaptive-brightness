@@ -1,0 +1,26 @@
+{	"name" : "pocketchip-adaptive-brightness",
+	"version" : "1.0.0",
+	"license" : "Shareware :|",
+	"description" : "ADC photoresistor monitor and screen brightness adjuster for PocketCHIP.",
+	"author" : {
+		"name" : "echicken",
+		"email" : "echicken@bbs.electronicchicken.com"
+	},
+	"contributors" : [
+		{	"name" : "echicken",
+			"email" : "echicken@bbs.electronicchicken.com"
+		}
+	],
+	"main" : "./index.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/echicken/pocketchip-adaptive-brightness.git"
+	},
+	"dependencies" : {
+		"chip-io" : "2.0.1",
+		"johnny-five" : "0.10.0"
+	},
+	"engines" : {
+		"node" : ">= 6.6.0"
+	}
+}
