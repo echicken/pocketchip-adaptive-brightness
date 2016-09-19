@@ -1,6 +1,8 @@
 # pocketchip-adaptive-brightness
 Adjust PocketCHIP's screen brightness to suit its environment.
 
+[Demo](https://bbs.electronicchicken.com/temp/pocketchip-adaptive-brightness.gif)
+
 ### Hardware
 
 - Connect a light-dependent resistor (LDR) in series with a 10K resistor between +3V and Ground
