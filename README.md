@@ -1,7 +1,7 @@
 # pocketchip-adaptive-brightness
 Adjust PocketCHIP's screen brightness to suit its environment.
 
-[Demo](https://bbs.electronicchicken.com/temp/pocketchip-adaptive-brightness.gif)
+![Demo](https://bbs.electronicchicken.com/temp/pocketchip-adaptive-brightness.gif)
 
 ### Hardware
 
